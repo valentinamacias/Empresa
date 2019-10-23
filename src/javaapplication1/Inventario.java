@@ -11,6 +11,8 @@ package javaapplication1;
  */
 public class Inventario extends javax.swing.JFrame {
 
+    /**
+     * Creates new form Inventario
      */
     public Inventario() {
         initComponents();
